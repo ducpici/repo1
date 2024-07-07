@@ -1,2 +1,0 @@
-main
-create function alo
