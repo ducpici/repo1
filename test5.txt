@@ -1,3 +1,5 @@
 test
 newline 
-function()
+function hello(){
+    fd
+}
