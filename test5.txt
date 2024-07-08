@@ -3,4 +3,5 @@ newline
 function hello(){
     fd
     alo
+    dmm
 }
