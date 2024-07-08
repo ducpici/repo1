@@ -4,5 +4,4 @@ function hello(){
     fd
     alo
     cmm
-    aaa
 }
